@@ -1,6 +1,6 @@
 [submodule "Tools/khamake"]
 	path = Tools/khamake
-	url = https://github.com/Kode/khamake.git
+	url = https://github.com:ciborg971/khamake.git
 	branch = master
 [submodule "Backends/Kore/khacpp"]
 	path = Backends/Kore/khacpp
@@ -28,5 +28,5 @@
 	shallow = true
 [submodule "Kinc"]
 	path = Kinc
-	url = https://github.com/Kode/Kinc.git
+	url = https://github.com:ciborg971/Kinc.git
 	branch = master
